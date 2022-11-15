@@ -1,0 +1,51 @@
+Developers notes  - 
+
+- Q & A - 
+- Journal entry's
+- Side notes - 
+_______________________________________________________________
+ Q & A       
+  - 11/14/2022 -  
+
+_______________________________________________________________
+
+Journal Entry - 11/14/2022 - 
+
+ - Much to my surprise and delight , I have finally accomplished all of the required tasks. Or so I think? 
+  That is both the beauty and the weight we carry as developers, when reaching into new specifics or tech.
+  In my recent learning journey , I have watched numerous amounts of videos , from which I of course gained absolutely
+  invalueable material from, but gained little hands on experience. 
+
+ -- I am also writing this to both apologize and reply to my mentors for my lack of responsiveness, 
+   as I was experiencing family regular 
+  occurances  and needs but also I was just totally burnt out due to frustration and the need too "Hurry things along". 
+  at the time . -
+
+  Cramming all my time into the videos at the end , this was both a difficult path and 
+  caused stress to someone such as myself who is a quite very motivated and determined type. -
+
+  However, I digress ,  the depth and details of the technical subjects
+  in the video expidetions that were prescribed , 
+  were also almost required, or at least makes the path much easier.
+  The material as a whole was invalueable and the teachers were experienced. 
+
+ - The most valueable thing I have learned is not only JavaScript ,in its vanilla functional form, 
+ Not just DOM selectors and etc, not even the routing ( which requires a much more in depth and 
+ possibly hands on focus in an environment.) 
+ - No , the most valueable thing I have learned was HOW to learn. 
+ In its most simplest form , a person is only as good as the tool he uses. No one gains any of these tools by 
+ reading a manual and spitting out a product, no , that is only in fantasy. Only true specific study and understanding of correction 
+ will one prosper in this field.    
+I have friends that are developers as well and through this type of trial and tribulation of learning , we become seasoned , and experienced. \
+Not only in code , but as a experience of countless error messages and re correction , I am happy 
+to have refined my tools and skills to a professional level , not because I know everything , 
+but because I know how to use everything.  
+
+- And I am overall more used to error correction now. - 
+
+ I think that is how one becomes both successful in life and as a developer, and is the most important 
+ factor as a overall lesson I have learned. 
+ -------------------------------------------------------------------------------------
+ - - - if anyone else has made it this far , the open developers notes is open for general discussion , 
+   - for responsiveness and follow up for further learning paths and development. 
+

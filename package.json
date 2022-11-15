@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "projectrepo",
+  "version": "1.0.0",
+  "description": "rest api for project repo ",
+  "main": "extracode.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jacob Thompson",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "keywords": []
+}

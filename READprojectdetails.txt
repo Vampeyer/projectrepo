@@ -1,0 +1,61 @@
+
+
+================================================================
+===================================================================
+Project Plan Scope - =================================================
+========================================================================
+===========================================================================
+To create an exceptional and passing capstone prfoject for Code Louisville =
+-------------------------------------------------------------------
+or Code Kentucky.
+=----------------------------------------------------------=
+ProjectPlan - 
+
++=    A Project Plan may include
+
+    wireframes++,
+ -/*project briefs*/,
+and -  [featureLists(), 1, 2, 3]
+
+-----------------------------------------
+Project objective: (what you expect to do ) : 
+create a new and improved ,  pick three lottery 
+system / scratch off lottery system , basic frame.  
+ Likely , doing pick three lottery.   
+- Build a basic lottery system that can be added upon 
+and built upon from there.  
+-----------------------------------------------------
+////				- Added Features in the future - 
+////				- Utilization and acceptance of crypto currencies, i.e. BTC, ETH, SOL , etc.
+////				- D3 or Decentralized main-net redundancy expansion. 
+-----------------------------------------
+
+Statement of work: (what needs to be done?)
+
+
+forms ,  ,  number generation , form input and saved data , 
+random winning number , display of both , lose if the chosen 3 
+input numbers do not match  the winning 3 ,   , wins if chosen pick
+ three numbers match  winning number. - then , Generate winning number
+ into random number with proper calls.  I also have to use  Proper DOM
+ commands and syntax in some levels.    
+
+Basic , HTML and CSS overlay and usage for display. 
+
+
+========================================================================
+
+
+= 4 features from the features list. 
+
+
+
+
+
+
+
+
+
+
+
+

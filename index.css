@@ -1,0 +1,312 @@
+
+/* header top start    */ 
+
+
+
+
+.headerContainer{
+    border: .5rem cornflowerblue dotted;
+    padding: .5rem;
+    font-family:"wrestlemania", 'Courier New', Courier, monospace;
+    color:gray;
+    margin-bottom: 2rem;
+}
+
+.headerTopOne{
+    font-family:'wrestlemania' ;
+    font-size: 2.5rem;
+    font-weight: lighter;
+    color:cornflowerblue
+}
+
+
+/* header top end  */ 
+
+
+/*  lottery and lottery container   */
+/*  Beginning of lottery boxed code   */ 
+
+
+
+/* Hero image class   */
+.heroTop { 
+    min-width: fit-content;
+    width: 200%;
+}
+
+.circusBg { 
+    width: 75%;
+}
+
+
+
+
+
+/*Lottery tag top   */
+
+
+
+.ticketHeadTitle { 
+    margin-top: .4rem ;
+    margin-bottom: .4rem ;
+    font-weight: lighter;
+   
+    margin-left: .8rem;
+    border: .3rem gray groove;
+    padding: 2%;
+    font-family:  'wrestlemania' ,'Courier New', Courier, monospace;
+    
+    
+}
+
+
+
+
+.ticketNum { 
+    margin: .2rem; 
+    border: .03rem black solid;
+    padding: .1rem;
+    font-family:  'wrestlemania' ,'Courier New', Courier, monospace;
+
+}    
+/*  */
+
+
+.picksClass { 
+    display: flex; 
+    flex-direction: column;
+}
+
+
+.lotteryBoxBorder { 
+    border: .55rem black ;
+    padding: .5rem;
+    padding-bottom: .5rem;
+}
+
+.lotteryBox{ 
+
+    border: 1.25rem black dashed;
+    padding: .5rem;
+    padding-bottom: .5rem;
+
+}
+
+
+.lotteryContainer {
+    
+    padding: .5rem;
+    display: flex;
+    flex-direction: row;
+
+   
+}
+
+ .lotteryFormNumContainer  { 
+
+    border: .08rem red dashed ;
+    padding: .2rem;
+    display: flex;
+    flex-direction: column;
+ 
+}
+
+/* ticket form   */ 
+
+#firstPickNum { 
+    max-width: 2.7rem ;
+    padding: 1%;
+    margin: 1%;
+    border-color: rgb(183, 243, 225);
+    border-radius: 15%;
+    height: 1.5rem;
+    font-size: 1.5rem;
+}
+#secondPickNum { 
+    max-width: 2.7rem ;
+    padding: 1%;
+    margin: 1%;
+    border-color: rgb(183, 243, 225);
+    border-radius: 15%;
+    height: 1.5rem;
+    font-size: 1.5rem;
+}
+#thirdPickNum { 
+    max-width: 2.7rem ;
+    padding: 1%;
+    margin: 1%;
+    border-color: rgb(183, 243, 225);
+    border-radius: 15%;
+    height: 1.5rem;
+    font-size: 1.5rem;
+}
+
+
+
+
+.winBox{
+    background-image: url(/images/checkmarkvanilla.png);
+
+}
+
+
+
+
+
+/*  -   Lottery ticket winning numbers and bottom form   */  
+     
+ .ticketBottomContainer{ 
+    display: flex;
+    flex-direction: column;
+    padding-bottom: .3rem;
+
+ }
+ .ticketBottom {
+    
+    font-family:  'wrestlemania' ,'Courier New', Courier, monospace;
+    padding: .3rem ;
+    margin: .2rem; 
+    border: .03rem black solid;
+ }
+ 
+ .winNum{
+    padding: .3rem ;
+    margin: .2rem; 
+    border: .03rem black solid;
+    font-family:  'wrestlemania' ,'Courier New', Courier, monospace;
+ }
+
+ 
+#firstPickWin { 
+    max-width: 25%;
+}
+#secondPickWin { 
+    max-width: 25%;
+}
+#thirdPickWin { 
+    max-width: 25%;
+}
+
+
+/* button class and styling   */  
+
+.submitButton { 
+
+}
+.retryButton {
+
+}
+.autoWinButton { 
+
+}
+
+
+/* numbers  */ 
+
+.firstNumPick{ 
+     
+}
+.secondNumPick { 
+
+}
+.thirdNumPick {
+    
+}
+
+
+
+
+/*  - - - Bottom of lottery ticket mark - - -   */ 
+
+
+
+button {
+    width: 6rem;
+    
+    height: 25px;
+    border: inset 0.2em rgb(0, 0, 0);
+    border-radius: 25%;
+    font-size: 100%;
+    font-weight: light;
+    padding-right: 3.5rem;
+    margin: .5rem;
+    height:fit-content;
+    font-family:  'wrestlemania' ,'Courier New', Courier, monospace;
+}
+
+
+
+
+
+/* fonts -   */ 
+@font-face {
+    font-family:"neon";
+    src: url(/fonts/conduitTitle.ttf);
+}
+@font-face {
+    font-family:"THEROOTS";
+    src: url(/fonts/THEROOTS.ttf);
+}
+@font-face {
+    font-family:"wrestlemania";
+    src: url(/fonts/Circus.ttf);
+}
+
+
+
+
+
+
+
+.checkMarkVanilla{ 
+    max-width: 80px;
+    margin-left: 2%;
+    margin-top: 2%;
+ }
+
+/*  MEDIA QUERIES  */ 
+/*  small queries   */ 
+
+@media screen and (min-width: 366px  ) {
+
+    
+ .checkMarkVanilla{ 
+    max-width: 140px;
+    margin-left: 2%;
+    margin-top: 2%;
+ }
+
+.circusBg{ 
+    width: 100%;
+}
+
+.ticketBottomContainer {
+    display: flex;
+    flex-direction: row;
+}
+
+.picksClass { 
+    display: flex; 
+    flex-direction: row;
+}
+
+}
+
+
+
+
+
+
+
+
+
+@media screen and (min-width: 324px  ) {
+
+ .headTicketContainer {
+    display: flex; 
+    flex-direction: row;
+            }
+
+    
+
+ };

@@ -1,0 +1,142 @@
+<!-- Making a HTML Document  !-->
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title></title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="/index.css" rel="stylesheet">
+</head>
+
+<body>
+    <header>
+
+        <div class="headerContainer">
+            <h3 class="headerTopOne">New html </h3>
+            <p class="headerTop "> This is a simple and new html document </p>
+        </div>
+    </header>
+
+    <section class="heroTop">
+
+        Welcome to the most amazing show on earth!
+    </section>
+    <img class="circusBg" src="/images/circusBg.jpg" alt="circusbg">
+
+
+    <div class="lotteryBoxBorder">
+        <div class="lotteryBox">
+            <div class="lotteryContainer">
+
+
+                <section class="headTicketContainer">
+
+                    <div class="ticketNum"> Ticket Ref.# </div>
+                    <div class="ticketNum"> ENTER Pick 3 # below.</div>
+
+                    <h6 class="ticketHeadTitle"> - OFFICIAL - LOTTERY PICK 3 TICKET </h6>
+
+
+
+                </section>
+
+            </div>
+            <div class="lotteryFormNumContainer">
+                <form id="form-picks" action="#" method="get" >
+
+                    <div class="picksClass">
+
+                    <label  id="firstPickLabel" for="firstPick"> First # </label>
+                     <input value="5" name="firstPick" id="firstPickNum"    type="number"  placeholder="1st Pick"  min="1" max="99" required >
+                    <label  id="secondPickLabel" for="secondPick">Second # </label>
+                     <input value="10" name="secondPick" id="secondPickNum"  class="secondNumPick" type="number"  placeholder="2nd Pick" step="1" min="1" max="99" required >
+                    <label  id="thirdPickLabel" for="thirdPick">Third #</label>
+                     <input value="15" name="'thirdPick" id="thirdPickNum"  class="thirdNumPick" type="number"  placeholder="3rd Pick" step="1" min="1" max="99" required >
+                    </div>
+             
+                    <button id="resetButton" type="reset" > Reset</button>
+                    <button id="submitButton"type="submit" onclick="action" required > Submit</button>
+                    <button id="retryButton" type="submit" onclick="action"> Retry</button>
+                    <button id="autoWinButton" type="submit" onclick="action"> Auto-Win</button>
+                    <input type="reset" > QuickRestart</button>
+                    <div>  </div>
+
+                    <label class="winningLabel"  for="winningImage"> Gray ticket </label>
+                    
+                <div id="defaultCheckboxImage" >
+                    <img  name="defaultImage" class="checkMarkVanilla" src="/images/checkmarkvanilla.png" alt="default checkmark">
+                    <img  name="defaultImage" class="checkMarkVanilla" src="#"  alt="default checkmark">
+                   
+               
+                </div>
+           
+                </form>
+                <p>
+                    Result Box
+                </p>
+
+
+                <div class="ticketBottomContainer">
+
+                    <div class="winNum">
+                        WINNING NUMBER HERE ! ---
+
+                        <form action="" method="get" class="form-wins">
+                            <input value="5"  type="number" id="firstPickWin" placeholder="1st Pick">
+                            <input value="10"  type="number" id="secondPickWin" placeholder="2nd Pick">
+                            <input value="15"  type="number" id="thirdPickWin" placeholder="3rd Pick">
+                        </form>
+
+
+
+
+                    </div>
+
+                    <div class="ticketBottom">
+                        # of Tickets Remaining
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+
+
+
+
+    <p> stuff samples </p>
+    <select name="Service Option" id="serviceOptions" placeholder="Select Service" required>
+        <option value="Select Your Service">Select your service </option>
+        <option value="2">Help Desk Remote Support </option>
+        <option value="2">Ongoing support</option>
+
+        <option value="4">Service's Questions </option>
+        <option value="3">Specialty Support / Advanced Services. </option>
+
+    </select>
+    </div>
+
+
+
+    <button type="submit" onclick="action"> Submit</button>
+
+
+
+    <footer>
+
+    </footer>
+
+
+    <script src="/somejs.js"></script>
+
+
+
+    <!-- <script src="/extracode.js" type="module"> </script>
+        -->
+</body>
+
+</html>
