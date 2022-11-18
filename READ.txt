@@ -40,7 +40,8 @@ you should be connected to my Atlas DB.
 #4 Extra function , 
 
   in the file somejs.js , be sure to uncomment the math random / 
-   random winning picks function , to see your numbers displayed randomly.  
+   random winning picks function , to see your winning numbers not displayed , 
+    but selected randomly.  Check the console.log 
 
 #5 , In the win lose function , you will also notice that data is removed and replaced , 
 		based on certain logic. The reset button resets the numbers , 
@@ -48,7 +49,9 @@ you should be connected to my Atlas DB.
 
 
 
-
+#6. Check the console for further response and feedback. 
+      Specific concole response based on the win or lose logic as well , to confirm or deny the picks , 
+       as well as the submission. 
 
 
 
