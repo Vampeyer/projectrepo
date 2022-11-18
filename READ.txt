@@ -3,6 +3,56 @@
 
 
 
+Requirements  , 
+
+Requirement #1 , communicate to external API , 
+requires downloading mongosh , mongo DB shell zip file , 
+
+here  https://www.mongodb.com/try/download/shell  
+and unzip the contents into the main root folder directory.  
+
+then , one must log in to the database , 
+preferably in visual studio code , with the mongo DB extension , 
+
+open the terminal and run this command , to access the database
+- mongosh "mongodb+srv://lotterypicks.6zfsfyz.mongodb.net/myFirstDatabase" --apiVersion 1 --username username 
+
+the username is : username , 
+and the current password is  :  tBCHEl2l23MzU74T  
+
+after entering all that , into the terminal , 
+
+you should be connected to my Atlas DB. 
+
+
+
+
+#2 , saves and persists data. 
+
+	win the numbers or lose the numbers! 
+
+#3 manipulate and compare data , 
+ Take a look at my win lose function , I compared a compare at the same level of logic. 
+   there is security in that. 
+
+#4 Extra function , 
+
+  in the file somejs.js , be sure to uncomment the math random / 
+   random winning picks function , to see your numbers displayed randomly.  
+
+#5 , In the win lose function , you will also notice that data is removed and replaced , 
+		based on certain logic. The reset button resets the numbers , 
+		as well as the retry button re submits the entire page. 
+
+
+
+
+
+
+
+
+
+
 Additions Needed 
 -------------------------
 
