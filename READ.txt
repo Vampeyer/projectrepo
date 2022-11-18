@@ -1,3 +1,44 @@
+
+
+
+
+
+Additions Needed 
+-------------------------
+
+export picks array in somejs.js
+
+import picks array in server.js 
+
+display numbers with get / post request 
+
+save picks as a local json file for storge and retrieval 
+ 
+after importing , ( or before) 
+use json bins or something similar to save
+ ` picks[] `  into ,  json file into 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Developers notes  - 
 
 - Q & A - 
