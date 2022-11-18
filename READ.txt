@@ -50,7 +50,7 @@ you should be connected to my Atlas DB.
 
 
 #6. Check the console for further response and feedback. 
-      Specific concole response based on the win or lose logic as well , to confirm or deny the picks , 
+      Specific console response based on the win or lose logic as well , to confirm or deny the picks , 
        as well as the submission. 
 
 
