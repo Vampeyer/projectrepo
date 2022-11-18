@@ -30,6 +30,8 @@ you should be connected to my Atlas DB.
 #2 , saves and persists data. 
 
 	win the numbers or lose the numbers! 
+	 , as well as you may see your previous selection in the text , after each entry to 
+	   confirm your picks. 
 
 #3 manipulate and compare data , 
  Take a look at my win lose function , I compared a compare at the same level of logic. 
